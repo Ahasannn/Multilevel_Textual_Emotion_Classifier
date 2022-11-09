@@ -76,7 +76,7 @@ The software environment needed to execute the system is given below:
 
 * Microsoft Windows 10 (OS Build 19042.928)
 * python => 3.8.5
-8 anaconda => 2020.11
+* anaconda => 2020.11
 * pip => 20.2.4
 * jupyter => 1.0.0
 * numpy => 1.19.2
