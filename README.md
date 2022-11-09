@@ -12,6 +12,17 @@ In this project, we have classified emotions from texts. Emotions considered in 
 
 # Outline of Methodology
 
+![Outline_of_Methodology](Images/Outline_of_Methodology.png)
+
+<hr/>
+
+# Multi-Label Emotion Classifier Framework
+
+![Outline_of_Methodology](Images/Multi-Label_Emotion_Classifier_Framework.png)
+
+<hr/>
+
+
 
 
 
