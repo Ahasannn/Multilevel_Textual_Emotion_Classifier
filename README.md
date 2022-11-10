@@ -72,7 +72,7 @@ In this project, we have classified emotions from texts. Emotions considered in 
 
 # Software Requirements
 
-The software environment needed to execute the system is given below:
+The software environment used to execute the system is given below:
 
 * Microsoft Windows 10 (OS Build 19042.928)
 * python => 3.8.5
