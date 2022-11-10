@@ -70,6 +70,8 @@ In this project, we have classified emotions from texts. Emotions considered in 
 |  Mircro F-Score |  0.901   | 0.902 | 0.843 |
 |  Average Accuracy |  0.83   | 0.829 | 0.744 |
 
+<hr/>
+
 # Software Requirements
 
 The software environment used to execute the system is given below:
