@@ -1,6 +1,6 @@
 # Multilevel Textual Emotion Classifier
 
-Multi-Label Textual Emotion Classification in Social Media Contents using Machine Learning Algorithms implemented with python.
+Multi-Label Textual Emotion Classification of Social Media Contents using Machine Learning Algorithms implemented with python.
 
 <hr/>
 
